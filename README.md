@@ -15,7 +15,7 @@ This README consists of steps and otehr details necessary to get this applicatio
 * Runt tests using 'npm test'.
 * Start node server using command 'node server.js' or 'npm start' as well.
 * Run Eslint to check syntax errors using 'npm run lint'.
-* To generate API Documentation, Follow the steps mentioned in apidoc-readme.txt
+* To test API use this EC2 (http://ec2-65-2-141-125.ap-south-1.compute.amazonaws.com:8001/api/record/getRecords)
 
 ### Contribution guidelines ###
 
